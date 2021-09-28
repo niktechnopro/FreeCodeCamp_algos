@@ -15,6 +15,7 @@ function diffArray(arr1, arr2) {
     }
   }
 
+
   //option 2
   // let a = arr1.filter(x => !arr2.includes(x));
   // let b = arr2.filter(x => !arr1.includes(x));
