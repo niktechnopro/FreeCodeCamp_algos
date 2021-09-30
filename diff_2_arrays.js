@@ -27,3 +27,5 @@ function diffArray(arr1, arr2) {
 diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 
 // diffArray([1, "calf", 3, "piglet"], [1, "calf", 3, 4]);
+
+// big O - O(m+n)
