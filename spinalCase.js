@@ -8,7 +8,7 @@ function spinalCase(str) {
       modified += `-${str[i]}`;
     }
     else{
-      modified += str[i]
+      modified += str[i];
     }
   }
 
@@ -16,6 +16,21 @@ function spinalCase(str) {
   return modified.toLowerCase();
 }
 
-spinalCase('This Is Spinal Tap');
+
+function spinalCase(str) {
+  const regexp = /(\w)[_]?([A-Z])| /g;
+  // const regexp = new RegExp(/(\w)[_]?([A-Z])| /, 'g');
+  // the explanation of regex - https://regex101.com/
+  return str.replace(regexp, "$1-$2").toLowerCase();
+}
+
+// spinalCase('This Is Spinal Tap');
 spinalCase("AllThe-small Things");
 // spinalCase("Teletubbies say Eh-oh");
+
+
+// Manipulating strings is very common in development, for instance, when dealing with user input.
+// Getting something out of String/Sanitizing the input et cetera (etc);
+
+
+// https://regex101.com/
