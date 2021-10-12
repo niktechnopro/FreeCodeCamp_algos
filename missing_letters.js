@@ -18,6 +18,17 @@
 
 // fearNotLetter("abce");
 
+//option 1.5
+function fearNotLetter(str) {
+  let alphabet = 'abcdefghijklmnopqrstuvwxyz';
+  let firstCharIndex = alphabet.indexOf(str[0]);
+  for(let i=firstCharIndex; i < firstCharIndex + str.length; i++){
+    if(!str.includes(alphabet[i])){
+      return alphabet[i];
+    }
+  }
+  return undefined;
+}
 
 //option 2
 function fearNotLetter(str) {
