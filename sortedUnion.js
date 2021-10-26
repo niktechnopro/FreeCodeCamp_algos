@@ -29,5 +29,5 @@ function uniteUnique(arr) {
 uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]);
 
 
-//explanation about arguments object in every function;
+//explanation about arguments object in every function in this video;
 // https://www.youtube.com/watch?v=KU3268tfflc
