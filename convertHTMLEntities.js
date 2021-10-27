@@ -31,15 +31,12 @@ function convertHTML(str) {
   };
   let newStr = "";
   for(let char of str){
-    // if(mappings[char]){//will run if exists
-    //   newStr += mappings[char];
-    // }
-    // else{
-    //   newStr += char;
-    // }
     newStr += mappings[char] || char;//same as if/else conditions
   }
   return newStr;
 }
 
 convertHTML("Dolce & Gabbana");
+
+
+//similar approach https://www.youtube.com/watch?v=fQCRcxtLIZ4
