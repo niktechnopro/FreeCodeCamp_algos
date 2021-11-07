@@ -3,20 +3,20 @@
 //option 1 - recursive solution
 function steamrollArray(arr) {
     let temp = [];
-    const flattenSimpleArray = (el) => {
+    const flattenSimpleArray = (element) => {
         // console.log("here: ", el)
-        if(Array.isArray(el)){//if array
-            for(let i = 0; i < el.length; i++){
-                if(Array.isArray(el[i])){
-                    flattenSimpleArray(el[i]);
+        if(Array.isArray(element)){//if array
+            for(let i = 0; i < element.length; i++){
+                if(Array.isArray(element[i])){
+                    flattenSimpleArray(element[i]);
                 }
                 else{
-                    temp.push(el[i]);
+                    temp.push(element[i]);
                 }
             }
         }
         else{//if not an array
-            temp.push(el);
+            temp.push(element);
         }
     }
     for(let el of arr){
