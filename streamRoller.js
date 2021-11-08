@@ -41,5 +41,11 @@ function steamrollArray(arr) {
     }
     return temp;
 }
+
+//option 3
+function steamrollArray(arr) {
+    return arr.flat(4);//where 4 - is a depth level
+}
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat
   
 steamrollArray([1, [2], [3, [[4]]]]);
