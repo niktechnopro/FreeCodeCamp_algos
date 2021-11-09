@@ -19,6 +19,7 @@ function steamrollArray(arr) {
             temp.push(element);
         }
     }
+    
     for(let el of arr){
         flattenSimpleArray(el);
     }
