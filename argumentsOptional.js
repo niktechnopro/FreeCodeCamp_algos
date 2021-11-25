@@ -11,7 +11,7 @@ function addTogether() {
     console.log("option 2", first, second);
     return function(num2){
       console.log("here: ", first, " num2 ", num2)
-      if(typeof first === "number" && typeof num2 === "number"){
+      if(typeof num2 === "number"){
         return first + num2;
       }
     }
