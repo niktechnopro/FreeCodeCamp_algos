@@ -35,3 +35,6 @@ addTogether(2,3);
 //       }
 //    }
 // volume(11)(2)(3)
+
+//Currying is technique of converting a function that takes multiple argumetns into a sequence of functions that each takes multiple arguments 
+//into a swquence of functions that each takes 1 argument.filter.com
