@@ -1,2 +1,4 @@
 # fix for Linguist as this is pure JS:
 *.js linguist-language=JavaScript
+* linguist-vendored
+*.js linguist-vendored=false
