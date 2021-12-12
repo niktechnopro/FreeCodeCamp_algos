@@ -1,4 +1,4 @@
 # fix for Linguist as this is pure js
-*.js linguist-language=JavaScript
+*.* linguist-language=JavaScript
 
 
