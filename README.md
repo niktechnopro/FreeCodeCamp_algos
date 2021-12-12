@@ -20,11 +20,7 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Binary Agents](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/binaryAgents.js)***
 * ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
 * ***[Arguments Optional](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/argumentsOptional.js)***
+* ***[Make a Person](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/makeAPerson.js)***
+* ***[Map the Debris](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/mapTheDebris.js)***
 
-
-* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
-
-* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
-
-* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
 
