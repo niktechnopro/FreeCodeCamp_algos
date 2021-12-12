@@ -10,8 +10,6 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Search and Replace](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/searchAndReplace.js)***
 * ***[DNA Pairing](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/DNA_pairing.js)***
 * ***[Missing letters](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/missing_letters.js)***
-
-
-* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
-* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
-* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
+* ***[Sorted Union](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sortedUnion.js)***
+* ***[Convert HTML Entities](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/convertHTMLEntities.js)***
+* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
