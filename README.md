@@ -13,3 +13,14 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Sorted Union](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sortedUnion.js)***
 * ***[Convert HTML Entities](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/convertHTMLEntities.js)***
 * ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
+* ***[Sum All Primes](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllPrimes.js)***
+* ***[Smallest Common Multiple](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/smallestCommonMultiple.js)***
+
+* ***[Drop it](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/dripIt.js)***
+
+* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
+
+* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
+
+* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
+
