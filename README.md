@@ -15,10 +15,8 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
 * ***[Sum All Primes](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllPrimes.js)***
 * ***[Smallest Common Multiple](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/smallestCommonMultiple.js)***
-
-* ***[Drop it](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/dripIt.js)***
-
-* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
+* ***[Drop it](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/dropIt.js)***
+* ***[Steamroller](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/streamRoller.js)***
 
 * ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
 
