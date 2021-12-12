@@ -17,8 +17,14 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Smallest Common Multiple](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/smallestCommonMultiple.js)***
 * ***[Drop it](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/dropIt.js)***
 * ***[Steamroller](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/streamRoller.js)***
+* ***[Binary Agents](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/binaryAgents.js)***
+* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
+* ***[Arguments Optional](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/argumentsOptional.js)***
 
-* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
 
-* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
+* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
+
+* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
+
+* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
 
