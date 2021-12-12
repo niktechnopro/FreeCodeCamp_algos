@@ -1,2 +1,3 @@
-# fix for Linguist as this course has 62 Java files and only 4 in HTML:
-*.html linguist-language=Java
+# fix for Linguist as this is pure js
+special-vendored-path/* linguist-vendored
+*.js linguist-vendored=true
