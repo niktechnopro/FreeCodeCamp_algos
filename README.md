@@ -4,3 +4,14 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Sum All Numbers in a Range](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllNumbersInRange.js)***
 * ***[Diff Two Arrays](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/diff_2_arrays.js)***
 * ***[Seek and Destroy](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/seekAndDestroy.js)***
+* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
+* ***[Spinal Tap Case](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/spinalCase.js)***
+* ***[Pig Latin](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/pigLatin.js)***
+* ***[Search and Replace](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/searchAndReplace.js)***
+* ***[DNA Pairing](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/DNA_pairing.js)***
+* ***[Missing letters](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/missing_letters.js)***
+
+
+* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
+* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
+* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
