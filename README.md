@@ -15,12 +15,12 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)*** [- see it on youtube](https://youtu.be/SVa5DBxqgr4)
 * ***[Sum All Primes](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllPrimes.js)*** [- see it on youtube](https://youtu.be/gcx4OOFcQEA)
 * ***[Smallest Common Multiple](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/smallestCommonMultiple.js)*** [- see it on youtube](https://youtu.be/Tv7gZiURWmU)
-* ***[Drop it](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/dropIt.js)***
-* ***[Steamroller](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/streamRoller.js)***
-* ***[Binary Agents](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/binaryAgents.js)***
-* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)***
-* ***[Arguments Optional](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/argumentsOptional.js)***
-* ***[Make a Person](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/makeAPerson.js)***
-* ***[Map the Debris](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/mapTheDebris.js)***
+* ***[Drop it](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/dropIt.js)*** [- see it on youtube](https://youtu.be/0WaJFRhy-xM)
+* ***[Steamroller](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/streamRoller.js)*** [- see it on youtube](https://youtu.be/MXkz2fsXcJM)
+* ***[Binary Agents](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/binaryAgents.js)*** [- see it on youtube](https://youtu.be/WZAkILbC0Xs)
+* ***[Everything Be True](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/everythingBeTrue.js)*** [- see it on youtube](https://youtu.be/Flwwi5V5JD8)
+* ***[Arguments Optional](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/argumentsOptional.js)*** [- see it on youtube](https://youtu.be/KO6RGgx-hfE)
+* ***[Make a Person](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/makeAPerson.js)*** [- see it on youtube](https://youtu.be/GBAdf0odqlQ)
+* ***[Map the Debris](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/mapTheDebris.js)*** [- see it on youtube](https://youtu.be/G0v3lIRqXJU)
 
 
