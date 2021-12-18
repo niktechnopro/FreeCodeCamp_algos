@@ -12,9 +12,9 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Missing letters](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/missing_letters.js)*** [- see it on youtube](https://youtu.be/jTbjCZ5FZiE)
 * ***[Sorted Union](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sortedUnion.js)*** [- see it on youtube](https://youtu.be/Wrd_Gv2zF3s)
 * ***[Convert HTML Entities](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/convertHTMLEntities.js)*** [- see it on youtube](https://youtu.be/yu9M6xWc2T8)
-* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
-* ***[Sum All Primes](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllPrimes.js)***
-* ***[Smallest Common Multiple](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/smallestCommonMultiple.js)***
+* ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)*** [- see it on youtube](https://youtu.be/SVa5DBxqgr4)
+* ***[Sum All Primes](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllPrimes.js)*** [- see it on youtube](https://youtu.be/gcx4OOFcQEA)
+* ***[Smallest Common Multiple](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/smallestCommonMultiple.js)*** [- see it on youtube](https://youtu.be/Tv7gZiURWmU)
 * ***[Drop it](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/dropIt.js)***
 * ***[Steamroller](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/streamRoller.js)***
 * ***[Binary Agents](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/binaryAgents.js)***
