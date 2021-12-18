@@ -6,12 +6,12 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Seek and Destroy](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/seekAndDestroy.js)***  [- see it on youtube](https://youtu.be/KU3268tfflc)
 * ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)*** [- see it on youtube](https://youtu.be/hyXQtb1nslE)
 * ***[Spinal Tap Case](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/spinalCase.js)*** [- see it on youtube](https://youtu.be/61fLMYC_3Ao)
-* ***[Pig Latin](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/pigLatin.js)***
-* ***[Search and Replace](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/searchAndReplace.js)***
-* ***[DNA Pairing](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/DNA_pairing.js)***
-* ***[Missing letters](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/missing_letters.js)***
-* ***[Sorted Union](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sortedUnion.js)***
-* ***[Convert HTML Entities](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/convertHTMLEntities.js)***
+* ***[Pig Latin](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/pigLatin.js)*** [- see it on youtube](https://youtu.be/JMBN7R8zB-g)
+* ***[Search and Replace](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/searchAndReplace.js)*** [- see it on youtube](https://youtu.be/YTvzw6kOXvs)
+* ***[DNA Pairing](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/DNA_pairing.js)*** [- see it on youtube](https://youtu.be/fQCRcxtLIZ4)
+* ***[Missing letters](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/missing_letters.js)*** [- see it on youtube](https://youtu.be/jTbjCZ5FZiE)
+* ***[Sorted Union](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sortedUnion.js)*** [- see it on youtube](https://youtu.be/Wrd_Gv2zF3s)
+* ***[Convert HTML Entities](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/convertHTMLEntities.js)*** [- see it on youtube](https://youtu.be/yu9M6xWc2T8)
 * ***[Sum All Odd Fibonacci Numbers](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllOddFibonacciNumbers.js)***
 * ***[Sum All Primes](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllPrimes.js)***
 * ***[Smallest Common Multiple](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/smallestCommonMultiple.js)***
