@@ -4,7 +4,7 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#fu
 * ***[Sum All Numbers in a Range](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllNumbersInRange.js)***  [- see it on youtube](https://youtu.be/99dUcOQ08KM)
 * ***[Diff Two Arrays](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/diff_2_arrays.js)***  [- see it on youtube](https://youtu.be/sNHg6ojEccc)
 * ***[Seek and Destroy](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/seekAndDestroy.js)***  [- see it on youtube youtube](https://youtu.be/KU3268tfflc)
-* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)***
+* ***[Wherefore art thou](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/whereforeArtThou.js)*** [- see it on youtube](https://youtu.be/hyXQtb1nslE)
 * ***[Spinal Tap Case](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/spinalCase.js)***
 * ***[Pig Latin](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/pigLatin.js)***
 * ***[Search and Replace](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/searchAndReplace.js)***
