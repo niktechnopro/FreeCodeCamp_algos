@@ -1,6 +1,7 @@
 # FreeCodeCamp_algos - Intermediate Algorithm Scripting
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming
 
+
 * ***[Sum All Numbers in a Range](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/sumAllNumbersInRange.js)***  [- see it on youtube](https://youtu.be/99dUcOQ08KM)
 * ***[Diff Two Arrays](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/diff_2_arrays.js)***  [- see it on youtube](https://youtu.be/sNHg6ojEccc)
 * ***[Seek and Destroy](https://github.com/niktechnopro/FreeCodeCamp_algos/blob/main/seekAndDestroy.js)***  [- see it on youtube](https://youtu.be/KU3268tfflc)
